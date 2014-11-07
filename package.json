@@ -1,6 +1,6 @@
 {
   "name": "tinq",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TingoDB-backed job queue for Node.js",
   "homepage": "http://github.com/diogoduailibe/tinq",
   "author": "Diogo Duailibe <dioduailibe@gmail.com>",
