@@ -1,0 +1,27 @@
+{
+    "name": "tinq",
+    "version": "0.3.1",
+    "description": "MongoDB-backed job queue for Node.js",
+    "homepage": "http://github.com/scttnlsn/tinq",
+    "author": "Scott Nelson <scott@scttnlsn.com>",
+    "main": "./lib/index",
+
+    "scripts": {
+        "test": "./node_modules/.bin/mocha"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/scttnlsn/tinq.git"
+    },
+
+    "dependencies": {
+        "tingodb": "latest"
+    },
+
+    "devDependencies": {
+        "async": "0.2.10",
+        "mocha": "1.18.2",
+        "sinon": "1.9.0"
+    }
+}
